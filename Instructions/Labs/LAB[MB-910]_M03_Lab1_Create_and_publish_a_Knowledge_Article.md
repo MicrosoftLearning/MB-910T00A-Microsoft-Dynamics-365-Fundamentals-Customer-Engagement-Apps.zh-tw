@@ -2,12 +2,12 @@
 lab:
   title: 實驗室 3.1：在 Dynamics 365 Customer Service 中建立及發佈知識文章
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908909"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141141998"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>課程模組 3：學習 Dynamics 365 Customer Service 的基本概念
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137908909"
 
 3. 在 [我的使用中文章] 旁選取下拉式箭頭，即可輕鬆查看不同階段中有哪些文章。 
 
-4. 選取 [草稿文章] 檢視。 
+4. 選取 [草稿文章]。 您可能會看見兩篇處於草稿模式的文章。
 
-5. 選取 [已核准的文章]。 
+5. 選取 [已核准的文章]。 您應會只少看見一篇已核准的文章。  
 
 6. 切換回 [我的使用中文章]
 
@@ -60,9 +60,9 @@ ms.locfileid: "137908909"
 
     5. 選取 [列印]
 
-一旦您已收到退回 / 損毀的項目，您的帳戶會取得退款。
+    一旦您已收到退回 / 損毀的項目，您的帳戶會取得退款。
 
-**注意：** 如有需要，您可以將格式設定新增至文字中。 
+    **注意：** 如有需要，您可以將格式設定新增至文字中。 
 
 10. 在 [命令列] 上選取 [儲存] 按鈕，以便儲存知識文章，並將文章保持開啟。 
 
@@ -115,5 +115,7 @@ ms.locfileid: "137908909"
     - **到期狀態：** 已過期
 
     - **發佈核准的翻譯：** 否
+    
+29. 請按一下 **發佈** 按鈕來發佈文章。
 
 
