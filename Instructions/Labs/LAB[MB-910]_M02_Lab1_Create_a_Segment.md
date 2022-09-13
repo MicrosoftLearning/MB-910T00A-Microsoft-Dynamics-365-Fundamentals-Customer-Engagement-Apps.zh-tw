@@ -2,12 +2,12 @@
 lab:
   title: 實驗室 2.1：在 Dynamics 365 Marketing 中建立區段
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 159f9c048a9dd746b9d0c83ee5692a5a648351de
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404927"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855070"
 ---
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>課程模組 2：學習 Dynamics 365 Marketing 的基礎知識
 ========================
@@ -41,7 +41,7 @@ ms.locfileid: "144404927"
 
 8. 選取第三個下拉式清單，該清單含有浮水印文字 **輸入文字** 並輸入 **Redmond**。
 
-9. 按一下以選取查詢頂端的 [名稱] 欄位，並輸入 **Remond 連絡人**。
+9. 按一下以選取查詢頂端的 [名稱] 欄位，然後輸入 **Redmond 連絡人**。
 
 10. 在命令列中選取 [儲存]，以便儲存區隔。
 
