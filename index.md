@@ -2,13 +2,8 @@
 title: 線上託管說明
 permalink: index.html
 layout: home
-ms.openlocfilehash: f4e2e1489e1997cfd064aa74eb5345e302bb2424
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908920"
 ---
+
 # <a name="content-directory"></a>內容目錄
 
 下方列出可連至各實驗室活動和示範的超連結。
