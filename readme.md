@@ -1,14 +1,6 @@
----
-ms.openlocfilehash: b7161fffeda5bdcda6a44519d19a2085bfd43066
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908848"
----
 # <a name="inf99x-sample-course"></a>INF99X：範例課程
 
-- **[下載最新學員手冊和 AllFiles 內容](../../releases/latest)**
+- **[下載最新摸摸學員手冊和 AllFiles 內容](../../releases/latest)**
 - **您是 MCT 嗎？** 請參閱我們專為 MCT 準備的[適用於 MCT 的 GitHub 使用者指南](https://microsoftlearning.github.io/MCT-User-Guide/) (英文)
 - **需要手動建立實驗室指示嗎？** - [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) 存放庫中備有指示
 
@@ -18,7 +10,7 @@ ms.locfileid: "137908848"
 
 - 我們希望透過此方式提倡實驗室的合作精神，若您在現場授課時發現 Azure 有所變更，歡迎您直接在實驗室來源中加以改進。  幫助您的 MCT 同業。
 
-## <a name="how-should-i-use-these-files-relative-to-the-released-moc-files"></a>我該如何使用與相對於已釋放的 MOC 檔案之這些檔案？
+## <a name="how-should-i-use-these-files-relative-to-the-released-moc-files"></a>相對於發佈的 MOC 檔案，我應該如何使用這些檔案？
 
 - 講師手冊和 PowerPoints 仍然會成為您教導課程內容的主要來源。
 
