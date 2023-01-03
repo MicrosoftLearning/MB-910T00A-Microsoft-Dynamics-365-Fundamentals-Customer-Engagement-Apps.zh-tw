@@ -2,13 +2,8 @@
 lab:
   title: 實驗室 5.1：在 Dynamics 365 Field Service 中建立工單
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: fa0e8af72df342a72267895d9318ce3f625633b5
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405011"
 ---
+
 <a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>模組 5：學習 Dynamics 365 Field Service 的基礎知識
 ========================
 
@@ -20,7 +15,7 @@ ms.locfileid: "144405011"
 
 ## <a name="instructions"></a>指示
 
-1. 使用左側的瀏覽介面，選取 **工單**。
+1. 如尚未開啟，請先開啟 **Dynamics 365 Field Service** 應用程式。 從左側功能表的 [排程] 區段中選取 [工單]。
 
 2. 在 [命令列] 上選取 [新增] 按鈕，以便建立新工單。
 
@@ -48,4 +43,4 @@ ms.locfileid: "144405011"
 
 7. 備註工單編號並記錄。 
 
-8. 選取 **儲存後關閉**，以儲存您的變更並結束新的工單。
+8. 選取**儲存後關閉**，以儲存您的變更並結束新的工單。
