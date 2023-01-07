@@ -2,13 +2,8 @@
 lab:
   title: 實驗室 2.2：建立簡單的客戶旅程
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 6c9f21f684590ff84fa77cc19e70555c2e8c00be
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404987"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>課程模組 2：學習 Dynamics 365 Marketing 的基礎知識
 ========================
 
@@ -30,17 +25,18 @@ ms.locfileid: "144404987"
 
 1. 如有必要，請開啟 Dynamics 365 Marketing 應用程式。 
 
-2. 使用左側的瀏覽，選取 [行銷執行] 群組下的 **行銷電子郵件**
+2. 使用左側導覽，將 [區域] 變更為 [Outbound marketing] \(輸出行銷\)，然後選取 [Marketing execution] \(行銷執行\) 群組下的 [行銷電子郵件]。
 
 3. 找到並開啟 **「椅子介紹」** 行銷電子郵件。  
 
-4. 在上方的 [命令列] 選取 [上線] 按鈕。 
+4. 若 [Introduction to Chairs] \(Chairs 簡介\) 電子郵件已經是 [即時]，請跳至下一個步驟。 
+   否則，在頂端的 [命令列] 上選取 [即時播送] 按鈕。 
 
 5. 現在電子郵件已經上線了，請在 [行銷執行] 群組下方選取 [客戶旅程]。
 
 6. 使用命令列選取 [新增]。
 
-7. [新客戶旅程] 頁面會隨顯示的 [選取客戶旅程範本] 對話方塊開啟。 選取 **略過** 以從頭開始建立該旅程。
+7. [新客戶旅程] 頁面會隨顯示的 [選取客戶旅程範本] 對話方塊開啟。 選取**略過**以從頭開始建立該旅程。
 
 8. 選取 [設定對象] ****(或者選取 [+]****)。 選取您在上一個練習中建立的 Redmond 客戶區隔。 第一個動態磚會填入區隔名稱，而 [目標對象] 窗格會顯示區隔屬性。
 
@@ -50,7 +46,7 @@ ms.locfileid: "144404987"
 
 11. 選取位於 [客戶旅程記錄] 頂端的 [一般] 索引標籤。 在 [一般] 索引標籤中輸入以下資訊：
 
-    - **名稱**：Redmond 客戶旅程
+    - **名稱**：Redmond 客戶旅程 - 您的姓名縮寫
 
     - **開始日期和時間：** 輸入今天的日期
 
