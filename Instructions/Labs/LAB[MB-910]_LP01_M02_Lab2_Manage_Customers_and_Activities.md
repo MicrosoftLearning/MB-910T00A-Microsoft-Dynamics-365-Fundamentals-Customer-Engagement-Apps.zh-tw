@@ -2,7 +2,7 @@
 lab:
   title: 學習路徑 1 - 實驗室 1.2：管理客戶和活動
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
 學習路徑 2 - 課程模組 2：描述 Dynamics 365 客戶參與應用程式中的共用活動和整合選項
@@ -30,11 +30,11 @@ lab:
 
 4. 完成帳戶記錄，如下所示：
 
-    - **帳戶名稱：** Contoso Corporate
+    - **帳戶名稱：** Contoso 公司 (您的縮寫) 
 
-    - **電話：** 888-555-1234
+    - **電話：** 888-555-1234 (您的縮寫) 
 
-    - **地址 1 街道 1：** 191 181<sup data-htmlnode="">st</sup> Ave N
+    - **位址 1 Street 1：** 191 181<sup data-htmlnode="">st</sup> Ave N (您的縮寫) 
 
     - **地址 1 城市：** 西雅圖
 
@@ -48,11 +48,11 @@ lab:
 
 7. 完成帳戶記錄，如下所示：
 
-    - **帳戶名稱：** Contoso North America
+    - **帳戶名稱：** Contoso 北美洲 (您的縮寫) 
 
-    - **電話：** 888-555-4321
+    - **電話：** 888-555-4321 (您的縮寫) 
 
-    - **地址 1 – 街道 1**：187 11<sup data-htmlnode="">th</sup> ST N
+    - **位址 1 Street 1**：第 187 11<sup data-htmlnode="">個</sup> ST N (您的縮寫) 
 
     - **地址 1 城市：** 芝加哥
 
@@ -72,11 +72,11 @@ lab:
 
     - **名字：** Jackson
 
-    - **姓氏：** Anderson
+    - **姓氏：** Anderson (您的姓名縮寫)
 
     - **職稱：** 執行長
 
-    - **電子郵件：** [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **Email：**[Jackson (您的縮寫) @contososample.com ](mailto:Jackson@contososample.com)
 
 13. 選取**儲存後關閉**按鈕。
 
@@ -88,7 +88,7 @@ lab:
 
 17. 完成約會，如下所示：
 
-    - **主旨：** 與 Jackson 開會
+    - **主題：** 與您的縮寫 (會議) 
 
     - **開始時間：** 明天上午 10:00
 
