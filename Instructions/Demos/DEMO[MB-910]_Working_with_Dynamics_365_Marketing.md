@@ -8,11 +8,11 @@ demo:
 
 ## 指示
 
-Dynamics 365 Customer Insights - Journeys 可讓您的組織控制行銷的所有不同層面，從傳遞和執行行銷活動到管理事件。 
+從交付和執行活動到管理活動，Dynamics 365 Customer Insights - Journeys 可讓貴組織控制行銷所有不同的面向。 
 
-1. 流覽至 Dynamics 365 Customer Insights - 旅程圖。
+1. 瀏覽並開啟 Dynamics 365 Customer Insights - Journeys。
 
-- Dynamics 365 Dynamics 365 Customer Insights - Journeys 可讓您根據量身訂做的人口統計輕鬆地識別特定客戶並鎖定特定客戶。 
+- Dynamics 365 讓您可以使用 Dynamics 365 Customer Insights - Journeys，根據量身打造的人口統計資料輕鬆地識別和鎖定特定客戶。 
 
     - 從「行銷準銷售案源」儀表板開始
 
@@ -36,7 +36,7 @@ Dynamics 365 Customer Insights - Journeys 可讓您的組織控制行銷的所�
 
     - 開啟 Customer Journey Designer
 
-    - 藉由建立和定義將用於旅程圖中的哪些活動，以及活動何時使用，即可輕鬆修改客戶互動的方式。 
+    - 透過建立和定義在旅程中將使用的活動與時機，即可輕鬆修改定義客戶的互動方式。 
 
             - Add an Activity to the Journey.
 
@@ -44,7 +44,7 @@ Dynamics 365 Customer Insights - Journeys 可讓您的組織控制行銷的所�
 
             - Save and Publish Customer Journey
 
-- 根據您建立的旅程，會根據目標行銷體驗，以及他們選擇的路徑，與您組織行銷內容互動時，提供目標行銷體驗。 
+- 根據您建立的旅程以及這些人員的身份，還有他們在與貴組織行銷內容互動時選擇的路徑，來提供鎖定目標的行銷體驗。 
 
     - 切換到客戶角色並開啟已傳送的預先定義行銷電子郵件。 逐步解說如何利用電子郵件中的不同內容。 
 
