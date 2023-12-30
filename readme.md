@@ -1,4 +1,4 @@
-# MB-910T00A：Microsoft Dynamics 365 基本概念 （CRM）
+# MB-910T00A：Microsoft Dynamics 365 基本概念 (CRM)
 
 - **[下載最新摸摸學員手冊和 AllFiles 內容](https://learningdownloadcenter.microsoft.com/)**
 - **您是 MCT 嗎？** 請參閱我們專為 MCT 準備的[適用於 MCT 的 GitHub 使用者指南](https://microsoftlearning.github.io/MCT-User-Guide/) (英文)
