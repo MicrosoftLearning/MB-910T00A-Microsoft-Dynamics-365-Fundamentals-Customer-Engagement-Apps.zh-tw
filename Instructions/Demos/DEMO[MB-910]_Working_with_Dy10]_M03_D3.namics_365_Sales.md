@@ -10,7 +10,7 @@ demo:
 
 Dynamics 365 Sales 是自適性銷售解決方案，可協助您的銷售團隊更有效率地進行銷售。 此示範將協助使用者從整體瞭解此應用程式。 
 
-1. 瀏覽並開啟 Dynamics 365 Sales Hub
+1. 瀏覽並開啟 Dynamics 365 銷售中心b
 
 2. 透過 Dynamics 365 Sales，協助您輕鬆管理和維護客戶關係。
 
